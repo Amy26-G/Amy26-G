@@ -45,12 +45,24 @@ I'm currently developing my skills and portfolio across **data analytics, cloud 
 - Statistical Analysis
 - Data Visualisation
 
-## 📂 Featured Projects
+## 📂 Academic Projects
 
 ### ☁️ Mobile Cloud Computing
 Research and analysis of mobile cloud computing, networking, cloud architecture, and related technologies.
 
 **Tools:** Cloud Computing, Networking, Research & Analysis
+
+### 🌐 Digital Transformation – Zespri
+
+Analysis of digital transformation and the application of emerging technologies to support business processes, organisational improvement, and strategic objectives.
+
+Tools & Skills: Digital Transformation, Emerging Technologies, Business Analysis, Research & Analysis
+
+### 📡 IoT in Motor Vehicles and Road Transportation
+
+Research and analysis of the influence of Internet of Things (IoT) technologies on motor vehicles and road transportation, including connected technologies and their potential benefits.
+
+Tools & Skills: IoT, Transportation Technology, Networking, Research & Analysis
 
 ### 📋 IT Project Management
 Analysis and comparison of project management methodologies for IT projects.
@@ -64,6 +76,10 @@ Analysis and comparison of project management methodologies for IT projects.
 - Networking & Cybersecurity
 - IT Project Management
 - Emerging Technologies
+
+## Education
+Master of Information Technology
+Bachelor of Science (Hons) in Computer Networks
 
 ## 📫 Connect With Me
 
